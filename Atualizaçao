@@ -1,0 +1,32 @@
+// Imagem da capa da música (em destaque)
+                AsyncImage(url: URL(string: musica.foto)) { phase in
+                    switch phase {
+                    case .empty:
+                        // Enquanto carrega
+                        ProgressView()
+                            .frame(width: 200, height: 200)
+                            .background(Color.gray.opacity(0.2))
+                            .clipShape(RoundedRectangle(cornerRadius: 5))
+                        
+                    case .success(let image):
+                        image
+                            .resizable()
+                            .scaledToFill()
+                            .frame(width: 200, height: 200)
+                            .clipShape(RoundedRectangle(cornerRadius: 5))
+
+                    case .failure(_):
+                        // Caso a imagem não carregue
+                        Image(systemName: "photo")
+                            .resizable()
+                            .scaledToFit()
+                            .frame(width: 200, height: 200)
+                            .background(Color.gray.opacity(0.2))
+                            .clipShape(RoundedRectangle(cornerRadius: 5))
+
+                    @unknown default:
+                        EmptyView()
+                    }
+                }
+                .offset(y: -200)
+                .zIndex(1)
