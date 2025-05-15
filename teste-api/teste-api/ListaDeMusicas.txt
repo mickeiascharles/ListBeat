@@ -1,0 +1,146 @@
+[
+  {
+    "_id": "2ea5b1bb4aa608e51962228550a36d8b",
+    "_rev": "1-f44ecbd6937d88fb57ac71a4557d4e4e",
+    "nome": "Djavan",
+    "foto": "https://i.scdn.co/image/ab67616d0000b27325b58a31f35a0878c3254a23",
+    "artista": "Djavan",
+    "ano": 1989,
+    "album": "Djavan"
+  },
+  {
+    "_id": "49a913fab79d3d92ae306e8916969916",
+    "_rev": "1-6c2799caf1f9ceb8e75cc3fa5bb12474",
+    "nome": "GNX",
+    "foto": "https://i.scdn.co/image/ab67616d0000b273d9985092cd88bffd97653b58",
+    "artista": "Kendrick Lamar",
+    "ano": 2025,
+    "album": "GNX"
+  },
+  {
+    "_id": "49a913fab79d3d92ae306e8916c004af",
+    "_rev": "1-605e86b6857279ee72ca49054a9a78fb",
+    "nome": "Heaven Or Hell",
+    "foto": "https://i.scdn.co/image/ab67616d0000b27345190a074bef3e8ce868b60c",
+    "artista": "Don Toliver",
+    "ano": 2020,
+    "album": "Heaven Or Hell"
+  },
+  {
+    "_id": "49a913fab79d3d92ae306e8916c77682",
+    "_rev": "1-67293951a2ff24459c1233d4ecc00cd0",
+    "nome": "MAYHEM",
+    "foto": "https://i.scdn.co/image/ab67616d00001e02b0860cf0a98e09663c82290c",
+    "artista": "Lady Gaga",
+    "ano": 2025,
+    "album": "MAYHEM"
+  },
+  {
+    "_id": "575782922f9006f5953007226a8d0efd",
+    "_rev": "1-d882387eee6c6ce292a02b4f67ad79df",
+    "nome": "HIGHEST IN THE ROOM",
+    "foto": "https://i.scdn.co/image/ab67616d0000b273e42b5fea4ac4c3d6328b622b",
+    "artista": "Travis Scott",
+    "ano": 2019,
+    "album": "Single"
+  },
+  {
+    "_id": "575782922f9006f5953007226aa6a05c",
+    "_rev": "1-796cdf682a559e625700820e3360da45",
+    "nome": "Alumbramento & Cara De Indio",
+    "foto": "https://i.scdn.co/image/ab67616d0000b273bae34280d35e1200fd706a0e",
+    "artista": "Djavan",
+    "ano": 1992,
+    "album": "Alumbramento & Cara de Indio"
+  },
+  {
+    "_id": "575782922f9006f5953007226ac25eed",
+    "_rev": "1-963a556932802346ade20494cbddf205",
+    "nome": "Imagine",
+    "foto": "https://i.scdn.co/image/ab67616d00001e0299581550ef9746ca582bb3cc",
+    "artista": "Jhon Lennon",
+    "ano": 1971,
+    "album": "Imagine"
+  },
+  {
+    "_id": "5e82da91a93d7d0a4af52cfe4ddc862e",
+    "_rev": "1-6173f07057bc558b49d836841c887504",
+    "nome": "Scorpion",
+    "foto": "https://i.scdn.co/image/ab67616d0000b273f9a9abe8ed9ffaba55412384",
+    "artista": "Drake",
+    "ano": 2018,
+    "album": "Scorpion"
+  },
+  {
+    "_id": "6cc3ab765decad903502961d4d704172",
+    "_rev": "1-fa1076e404dd75c4da9ad0d53d33b0c0",
+    "nome": "AstroWorld",
+    "foto": "https://i.scdn.co/image/ab67616d0000b273072e9faef2ef7b6db63834a3",
+    "artista": "Travis Scott",
+    "ano": 2020,
+    "album": "AstroWorld"
+  },
+  {
+    "_id": "6cc3ab765decad903502961d4d9d64ba",
+    "_rev": "1-f76a3ac7947202a81c1654a048370aaf",
+    "nome": "Funk Generation",
+    "foto": "https://i.scdn.co/image/ab67616d00001e02a607c19552e14515bcb79aad",
+    "artista": "Anitta",
+    "ano": 2024,
+    "album": "Funk Generation"
+  },
+  {
+    "_id": "9daaf86543c36bd2cc803d48d281b6ad",
+    "_rev": "1-5ff621a06da41693fc6d581ff7282033",
+    "nome": "Alumbramento & Cara De Indio",
+    "foto": "https://i.scdn.co/image/ab67616d0000b273c1d55d16a86402bad1969b56",
+    "artista": "Brandão",
+    "ano": 2024,
+    "album": "CEO"
+  },
+  {
+    "_id": "d8a644b52e6d6a86341cf5e8c9d3039d",
+    "_rev": "1-ff5fcc41cceba03e745f0b52dfda6f2a",
+    "nome": "The Dark Side of the Moon",
+    "foto": "https://i.scdn.co/image/ab67616d0000b273ea7caaff71dea1051d49b2fe",
+    "artista": "Pink Floyd",
+    "ano": 1985,
+    "album": "The Dark Side of the Moon"
+  },
+  {
+    "_id": "d8a644b52e6d6a86341cf5e8c9d42281",
+    "_rev": "1-0ee0e9c0e0d3902b4eb83cb29e386800",
+    "nome": "Californication (Deluxe Edition)",
+    "foto": "https://i.scdn.co/image/ab67616d0000b273a9249ebb15ca7a5b75f16a90",
+    "artista": "Red Hot Chilli Peppers",
+    "ano": 1999,
+    "album": "Californication"
+  },
+  {
+    "_id": "f34a14ea351ab00e95b6f8caa57fffa0",
+    "_rev": "1-a27cea3d13b85faf5c13fbb47f44dbc2",
+    "nome": "Utopia",
+    "foto": "https://i.scdn.co/image/ab67616d0000b273881d8d8378cd01099babcd44",
+    "artista": "Travis Scott",
+    "ano": 2023,
+    "album": "Utopia"
+  },
+  {
+    "_id": "f34a14ea351ab00e95b6f8caa59ff4e8",
+    "_rev": "1-44cc8af3aae8821d52e8f1c31e441a44",
+    "nome": "24K Magic",
+    "foto": "https://i.scdn.co/image/ab67616d00001e02232711f7d66a1e19e89e28c5",
+    "artista": "Bruno Mars",
+    "ano": 2016,
+    "album": "24K Magic"
+  },
+  {
+    "_id": "f34a14ea351ab00e95b6f8caa5a18219",
+    "_rev": "1-2c8a9ea68b1b7602b82e9bfb4db57cda",
+    "nome": "THE FUTURE IS ANCESTRAL",
+    "foto": "https://i.scdn.co/image/ab67616d00001e0214abdf960bcb00605db8f4f7",
+    "artista": "Alok",
+    "ano": 2024,
+    "album": "THE FUTURE IS ANCESTRAL"
+  }
+]
