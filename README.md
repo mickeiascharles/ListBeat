@@ -29,3 +29,5 @@ O projeto foi criado para resolver a falta de uma plataforma simples e pessoal p
 
 Impacto Esperado:
 Ao finalizar o projeto, o usuário terá uma plataforma dinâmica e acessível para manter seu catálogo musical pessoal, podendo acompanhar suas músicas favoritas, suas avaliações e descobrir novas faixas com base no que já escutou e avaliou. Isso vai melhorar a forma como ele organiza e revisita suas músicas preferidas.
+
+link notion: https://vanilla-pantydraco-c7e.notion.site/ListBeat-HackaTruck-1f48248be9aa80ab9f64d540ea5a4ab5
