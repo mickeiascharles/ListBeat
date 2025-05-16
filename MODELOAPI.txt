@@ -1,0 +1,14 @@
+{
+  "_id": "2ea5b1bb4aa608e51962228550a36d8b",
+  "_rev": "1-f44ecbd6937d88fb57ac71a4557d4e4e",
+  "nome": "Djavan",
+  "foto": "https://i.scdn.co/image/ab67616d0000b27325b58a31f35a0878c3254a23",
+  "artista": "Djavan",
+  "ano": 1989,
+  "album": "Djavan",
+  "avaliacao": 0,
+  "comentario": "",
+  "linkspotify": "https://open.spotify.com/intl-pt/album/3SrW9PsWq7ipPERLgck3tA",
+  "linkapple": "https://music.apple.com/br/album/djavan/808275311",
+  "linkdeezer": "https://www.deezer.com/br/album/7371939"
+}
