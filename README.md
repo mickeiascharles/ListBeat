@@ -31,3 +31,15 @@ Impacto Esperado:
 Ao finalizar o projeto, o usuário terá uma plataforma dinâmica e acessível para manter seu catálogo musical pessoal, podendo acompanhar suas músicas favoritas, suas avaliações e descobrir novas faixas com base no que já escutou e avaliou. Isso vai melhorar a forma como ele organiza e revisita suas músicas preferidas.
 
 link notion: https://vanilla-pantydraco-c7e.notion.site/ListBeat-HackaTruck-1f48248be9aa80ab9f64d540ea5a4ab5
+
+if isLoading {
+                    VideoPlayer(player: player)
+                        .ignoresSafeArea()
+                        .onAppear {
+                            if let url = Bundle.main.url(forResource: "ANIMAÇÃO LISTBEAT", withExtension: "mp4") {
+                                player.replaceCurrentItem(with: AVPlayerItem(url: url))
+                                player.isMuted = true
+                                player.play()
+                            }
+                        }
+                        .frame(height: 180)
